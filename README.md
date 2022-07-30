@@ -1,10 +1,14 @@
-Le lien github du projet : https://github.com/belouhbe/projet_s2_image_filter
+Le lien github du projet : https://github.com/belouhbe/udacity-projet-image-filter
 
 
 L'URL de point de terminaison du déploiement avec elastic beanstalk :
 - http://project-filter-image-dev.us-east-1.elasticbeanstalk.com/
 
-- exemple avec un url : http://project-filter-image-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+### Image sans filtre
+https://img.freepik.com/photos-premium/concept-vacances-ete-parasol-plage-fond-jaune-rendu-3d_1379-5577.jpg
+
+### Image avec filtre
+http://project-filter-image-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/photos-premium/concept-vacances-ete-parasol-plage-fond-jaune-rendu-3d_1379-5577.jpg
 
 
 ### Setup Node Environment
